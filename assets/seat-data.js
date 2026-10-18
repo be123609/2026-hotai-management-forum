@@ -713,63 +713,23 @@ window.SEATING_DATA = Object.freeze({
           }
         ]
       },
-      {
-        "id": 2,
-        "label": "第二桌",
-        "count": 10,
-        "people": [
-          {
-            "company": "和泰",
-            "name": "朱雪菁",
-            "title": "部長"
-          },
-          {
-            "company": "國都",
-            "name": "曾連雪",
-            "title": "協理"
-          },
-          {
-            "company": "車美仕",
-            "name": "黃文秋",
-            "title": "協理"
-          },
-          {
-            "company": "國都",
-            "name": "郭久琳",
-            "title": "協理"
-          },
-          {
-            "company": "高都",
-            "name": "曾聰仁",
-            "title": "協理"
-          },
-          {
-            "company": "產險",
-            "name": "許志逢",
-            "title": "協理"
-          },
-          {
-            "company": "和潤",
-            "name": "林淑婷",
-            "title": "資深經理"
-          },
-          {
-            "company": "中部",
-            "name": "余金維",
-            "title": "資深經理"
-          },
-          {
-            "company": "桃苗",
-            "name": "任志誠",
-            "title": "經理"
-          },
-          {
-            "company": "和泰",
-            "name": "朱雪菁",
-            "title": "部長"
-          }
-        ]
-      },
+     {
+  id: 2,
+  label: "第二桌",
+  count: 10,
+  people: [
+    { company: "國都", name: "曾連雪", title: "協理" },
+    { company: "車美仕", name: "黃文秋", title: "協理" },
+    { company: "國都", name: "郭久琳", title: "協理" },
+    { company: "高都", name: "曾聰仁", title: "協理" },
+    { company: "產險", name: "許志逢", title: "協理" },
+    { company: "和潤", name: "林淑婷", title: "資深經理" },
+    { company: "中部", name: "余金維", title: "資深經理" },
+    { company: "國都", name: "翁金上", title: "經理" },
+    { company: "桃苗", name: "任志誠", title: "經理" },
+    { company: "和泰", name: "朱雪菁", title: "部長" }
+  ]
+},
       {
         "id": 3,
         "label": "第三桌",
