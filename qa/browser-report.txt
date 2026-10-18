@@ -1,0 +1,22 @@
+mode	page	status	title	main	overflow	console_errors	stale_terms	pass
+desktop	index.html	200	首頁｜2026 和泰集團管理論壇	1	False	0	0	True
+desktop	agenda.html	200	正式議程｜2026 和泰集團管理論壇	1	False	0	0	True
+desktop	speakers.html	200	講者介紹｜2026 和泰集團管理論壇	1	False	0	0	True
+desktop	checkin.html	200	活動報到｜2026 和泰集團管理論壇	1	False	0	0	True
+desktop	seating.html	200	正式座位圖｜2026 和泰集團管理論壇	1	False	0	0	True
+desktop	resources.html	200	會後資料｜2026 和泰集團管理論壇	1	False	0	0	True
+desktop	venue.html	200	活動地點與交通｜2026 和泰集團管理論壇	1	False	0	0	True
+desktop	delivery.html	200	企劃與上線檢查｜2026 和泰集團管理論壇	1	False	0	0	True
+desktop	404.html	200	找不到頁面｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	index.html	200	首頁｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	agenda.html	200	正式議程｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	speakers.html	200	講者介紹｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	checkin.html	200	活動報到｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	seating.html	200	正式座位圖｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	resources.html	200	會後資料｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	venue.html	200	活動地點與交通｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	delivery.html	200	企劃與上線檢查｜2026 和泰集團管理論壇	1	False	0	0	True
+mobile	404.html	200	找不到頁面｜2026 和泰集團管理論壇	1	False	0	0	True
+
+Features: formal event data, 8 agenda times, venue/transport, Hotai logo, 85 meeting seats, 72 dinner guests/7 tables, speaker photos, Forms, SurveyCake, no unauthorized downloads, mobile navigation.
+Failures: []
